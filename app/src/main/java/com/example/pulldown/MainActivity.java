@@ -13,11 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-        //Testing the PullDown Feature of android Studio and Github
-
         // made some changes here and this should show up in another created project
-
 
 
 
